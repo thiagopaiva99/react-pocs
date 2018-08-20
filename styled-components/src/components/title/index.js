@@ -8,7 +8,7 @@ const Title = styled.h1`
 `;
 
 const Wrapper = styled.section`
-  padding: 4em;
+  padding: 1em;
   background: papayawhip;
 `;
 
